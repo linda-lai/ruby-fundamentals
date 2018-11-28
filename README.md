@@ -1,3 +1,17 @@
+# Ruby Fundamentals
+A collection of problems and solutions written in Ruby to practice fundamentals.
+
+|[![Linda Lai](contributors-linda-lai-70x70.jpg)](https://github.com/linda-lai) |
+|-----------|
+| Linda Lai |
+
+## Background
+Hi, hello and hey! I'm currently a student at Coder Academy completing a Diploma of Information Technology in a full-stack web development immersive bootcamp, learning Ruby for the first time.
+
+The following problems were provided to students to practice Ruby fundamentals, primarily focusing of methods and data structures to build up familiarity with syntax, logic and general programming conventions.
+
+As a newcomer to coding and Ruby, these were challenging but fun exercises to do, particularly as they increased in difficulty - making those ones all the more satisfying to crack!
+
 *Problem 1*
 
 Define 4 methods. The first takes a string (as an argument), and then returns the string + “ will be”, the second takes a string, and returns the string + “ won’t be”, the third takes a string and returns the string + “ impeached.” and the fourth is called trump_predictor. trump_predictor takes a string, but then you must use the previous functions to get from this method call trump_predictor(“Trump”) to whatever outcome you think is more likely, but using only the previously defined functions. Store the output of trump_predictor in a well named variable. (For example, if you think he won’t be impeached, only call the methods that matter, so the output string will be “Trump won’t be impeached.”.)
